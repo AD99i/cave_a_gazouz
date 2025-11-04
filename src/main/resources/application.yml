@@ -1,0 +1,10 @@
+spring:
+ data:
+  mongodb:
+  username: sa
+  password: Passw0rd
+  host: localhost
+  port: 27017
+  database: CAVE_DB
+  auto-index-creation: true
+  authentication-database: admin
